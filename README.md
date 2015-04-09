@@ -1,4 +1,4 @@
-Edited with Laravel 5 pathches
+Edited with Laravel 5 patches
 Datatable
 =========
 
